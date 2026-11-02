@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+# Aggiungere Sitemap: URL_PUBBLICO/sitemap.xml dopo la configurazione.
